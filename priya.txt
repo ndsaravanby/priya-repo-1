@@ -1,2 +1,2 @@
 empty-commit
-test2
+test
